@@ -1,5 +1,7 @@
 # linux
 
+[vim/vim.md](vim/vim.md)
+
 ## 1. 什么是 Linux？
 
 Linux 是一套免费、开源的操作系统，是一个基于 POSIX 和 UNIX 的多用户、多任务、支持多线程和多 CPU 的操作系统。它是一个基于 Linux 内核的自由软件，是一个优秀的操作系统平台。
